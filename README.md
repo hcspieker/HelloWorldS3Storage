@@ -1,2 +1,3 @@
 # HelloWorldS3Storage
-Simple C# console app that lists buckets and objects in S3-compatible storage (uses `AWSSDK.S3`).
+
+This repository contains a simple C# console app that lists buckets and objects in S3-compatible storage using the `AWSSDK.S3`) NuGet package.
